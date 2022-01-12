@@ -1,16 +1,19 @@
 # task_manager
 
-A new Flutter project.
+A task manager app by Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a task manager app which you can manage your daily/weekly/monthly tasks.
+Users can set your task's priorities.
+Users can see task's descriptions.
+Users can sort your task by date,name,priority.
+Users has a profile page that they can add their profile photos, reset password, see account details.
 
-A few resources to get you started if this is your first Flutter project:
+## Not for developers which are gonna clone repository
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I had some issues while commiting my repository, so u can have trouble for direct use with download project.
+I suggets you can copy the files one by one and change your own configures.
+Code works fine but you can have some errors while direct copy because of commit issues.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
